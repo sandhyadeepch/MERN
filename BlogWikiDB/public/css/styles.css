@@ -38,3 +38,7 @@ html {
 	font-size: 12px;
   color: #fff;
 }
+ /* image border for screen snaps */
+ .imgSS{
+  border: solid black 1px;
+}

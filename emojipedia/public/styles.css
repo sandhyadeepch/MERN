@@ -82,3 +82,7 @@ body {
     margin-bottom: 1rem;
   }
   
+  /* image border for screen snaps */
+  .imgSS{
+    border: solid black 1px;
+  }

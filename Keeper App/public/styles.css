@@ -103,3 +103,7 @@ form.create-note button {
   cursor: pointer;
   outline: none;
 }
+ /* image border for screen snaps */
+ .imgSS{
+  border: solid grey 1px;
+}

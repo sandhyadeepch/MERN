@@ -1,18 +1,29 @@
-Blog wiki is an app where you can create/edit/delete a blog post to a mongoose database. You have different navigation tabs. 
+<h1>About</h1>
 
-Below are some screen snaps on how the app looks like in function-
-Home page with all posts stored in database, truncated to fixed characters
-<img src="public/Images/home.png"/>
 
-About/Contact tabs have similar views
-<img src="public/Images/about.png"/>
+<b>Blog wiki</b> is an app where you can create/edit/delete a blog post to a mongo database. Also have different navigation tabs (Home, About, Contact, Add Post) to navigate around easily. 
 
+<b>CSS, HTML, Javascript, EJS, Express, Mongoose</b>
+
+<h1>Look and Feel</h1>
+
+<h3>Home page </h3> 
+Shows all posts stored in database, and content of each post truncated to fixed characters.
+<img src="public/Images/home.png" class="imgSS"/>
+
+<h3>About/ Contact </h3> 
+Both tabs have similar views, displaying static content.
+<img src="public/Images/about.png" class="imgSS"/>
+
+<h3>Add Post</h3> 
 Create a new post by clicking on Add Post tab
-<img src="public/Images/compose.png"/>
+<img src="public/Images/compose.png" class="imgSS"/>
 
-Click on Read more for any post to see full post
-<img src="public/Images/post.png"/>
+<h3>Read more...</h3> 
+Click on 'Read more' for any post to see its full content
+<img src="public/Images/post.png" class="imgSS"/>
 
-Click on Edit button if wants to update/delete particular post. (While deleting a post, a simple javascript  alert pops up to confirm the action)
-<img src="public/Images/edit.png"/>
+<h3>Edit/ Delete.</h3> 
+On each post with full content view, there is Edit button to facilitate update/delete of particular post. 
+<img src="public/Images/edit.png" class="imgSS"/>
 
